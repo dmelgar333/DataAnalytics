@@ -1,0 +1,27 @@
+1. What conclusion can you reach about the responses to this question?
+The conclusion I reached about the responses to this question would be that most people see to want or plan to be prepared for the class at least 5 minutes before or more. 
+
+2. Is the default summary or visualization helpful? How could it be improved? The default summary is helpful in a way, I would prefer a different visualization maybe a chart to summarize these responses verses an excel sheet.
+
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these?
+I found it difficult to find the "other" option, clicking on the drop down at the top will find the answers. 
+
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided? The challenges I found while looking for a trend or pattern is that the data is listed as they came in, theres no clear visual or groups to make more sense. This is clearly raw data that needs sorting. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+I would be maybe a little more specific when asking these questions
+
+6. Is there anything that surprised you about the survey responses?
+I expected more drastic answers from the group but pleasantly surprised at the common answers which are positive.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about? Yes I definitely got some pointers to use in my own morning routine such as practicing some GitBash essentials. 
+ 
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+I would definitely learn about how the students are approaching the work and adjust my course to it. 
+
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons,you may include both. 
+I do think it was helpful, if the input leads to any real change. 
