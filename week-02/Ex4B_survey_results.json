@@ -1,0 +1,80 @@
+[
+	{
+		"ï»¿Id" : 1,
+		"Start_time" : "4/8/2026 19:22",
+		"Completion_time" : "4/8/2026 19:23",
+		"Email" : "jlopez7@my.yearupunited.org",
+		"Name" : "jonathan lopez",
+		"fav_flavor" : "Lemon poppy",
+		"visit_frequency" : "Once a week",
+		"barrier_to_return" : "Buy_6_get_1_free_punch_card",
+		"preferred_size" : "Jumbo size",
+		"usual_time" : "After dinner dessert",
+		"loyalty_program_likelihood" : "Very likely"
+	},
+	{
+		"ï»¿Id" : 2,
+		"Start_time" : "4/8/2026 19:46",
+		"Completion_time" : "4/8/2026 19:48",
+		"Email" : "anonymous",
+		"Name" : "",
+		"fav_flavor" : "Blueberry",
+		"visit_frequency" : "Once a week",
+		"barrier_to_return" : "Monthly muffin eventsÂ ",
+		"preferred_size" : "Standard size",
+		"usual_time" : "Midday snack",
+		"loyalty_program_likelihood" : "Somewhat likely"
+	},
+	{
+		"ï»¿Id" : 3,
+		"Start_time" : "4/8/2026 19:55",
+		"Completion_time" : "4/8/2026 19:55",
+		"Email" : "anonymous",
+		"Name" : "",
+		"fav_flavor" : "Raspberry white chocolate",
+		"visit_frequency" : "First time trying you out",
+		"barrier_to_return" : "Buy 6 get 1 free punch card",
+		"preferred_size" : "Mini muffins",
+		"usual_time" : "Morning",
+		"loyalty_program_likelihood" : "Somewhat likely"
+	},
+	{
+		"ï»¿Id" : 4,
+		"Start_time" : "4/8/2026 19:57",
+		"Completion_time" : "4/8/2026 19:58",
+		"Email" : "anonymous",
+		"Name" : "",
+		"fav_flavor" : "Blueberry",
+		"visit_frequency" : "First time trying you out",
+		"barrier_to_return" : "Buy 6 get 1 free punch card",
+		"preferred_size" : "Depends on the mood",
+		"usual_time" : "Morning",
+		"loyalty_program_likelihood" : "Very likely"
+	},
+	{
+		"ï»¿Id" : 5,
+		"Start_time" : "4/8/2026 20:00",
+		"Completion_time" : "4/8/2026 20:01",
+		"Email" : "anonymous",
+		"Name" : "",
+		"fav_flavor" : "Blueberry",
+		"visit_frequency" : "Few times a month",
+		"barrier_to_return" : "Buy a dozen get a discount",
+		"preferred_size" : "Standard size",
+		"usual_time" : "Morning",
+		"loyalty_program_likelihood" : "Very likely"
+	},
+	{
+		"ï»¿Id" : 6,
+		"Start_time" : "4/8/2026 19:13",
+		"Completion_time" : "4/8/2026 20:08",
+		"Email" : "anonymous",
+		"Name" : "",
+		"fav_flavor" : "Blueberry",
+		"visit_frequency" : "First time trying you out",
+		"barrier_to_return" : "Buy a dozen get a discount",
+		"preferred_size" : "Depends on the mood",
+		"usual_time" : "After dinner dessert",
+		"loyalty_program_likelihood" : "Very likely"
+	}
+]
