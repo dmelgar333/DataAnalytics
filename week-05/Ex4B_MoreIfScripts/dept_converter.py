@@ -17,3 +17,4 @@ elif dept_code == 20:
     print("Customer Relations")
 else:
     print("Unknown department code")
+    
