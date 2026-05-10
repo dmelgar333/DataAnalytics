@@ -1,0 +1,29 @@
+# ============================================================
+# Net Worth Calculator
+# Formula: Net Worth = Total Assets - Total Debts
+# ============================================================
+
+# Define assets (things you OWN that have value)
+checking_account = 2500.00
+savings_account = 10000.00
+car_value = 15000.00
+home_value = 250000.00
+
+# Define debts (things you OWE)
+car_loan = 8000.00
+student_loan = 25000.00
+credit_card_debt = 3500.00
+mortgage = 200000.00
+
+# Calculate totals
+total_assets = checking_account + savings_account + car_value + home_value
+total_debts = car_loan + student_loan + credit_card_debt + mortgage
+
+# Calculate net worth
+net_worth = total_assets - total_debts
+
+# Display results
+print("========== Net Worth Calculator ==========")
+print("Total Assets: " + format(total_assets, ".2f"))
+print("Total Debts: " + format(total_debts, ".2f"))
+print("Net Worth: " + format(net_worth, ".2f"))
